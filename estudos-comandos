@@ -30,3 +30,12 @@ sudo comando
 o
 
 
+Estou aprendendo o que é commit:
+m commit é como salvar um ponto da história do seu projeto, com uma mensagem explicando o que mudou.
+
+Pense assim:
+
+📘 Um commit é uma foto do estado atual dos seus arquivos.
+📌 Ele registra o que você alterou.
+📌 Ele guarda uma mensagem explicando a mudança.
+📌 Ele cria um ponto seguro para voltar no futuro.
