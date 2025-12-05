@@ -1,0 +1,34 @@
+# Estudos de Linux com Máquina Virtual
+
+## 1. Instalação do VirtualBox no Ubuntu
+- Comando usado: `sudo apt install virtualbox virtualbox-ext-pack`
+- Aprendi sobre aceitação de licença PUEL
+- Entendi o conceito de hypervisor tipo 2
+
+## 2. Criação de Máquina Virtual com Lubuntu
+- Download da ISO Lubuntu 24.04
+- Configuração com 2GB RAM e 10GB de disco
+- Primeiro boot e instalação completa
+
+## 3. Primeiros comandos de administração de usuários
+
+### Criar usuários:
+``adduser nome``
+
+### Explicação:
+- Users são identidades no sistema
+- UID, GID, permissões, home directory
+
+### Criar grupos:
+``sudo groupadd teste``
+
+## 4. Administração de permissões
+- `chmod`
+- `chown`
+- `chgrp`
+
+## 5. Próximos passos
+- Criar discos falsos (loop devices)
+- Entender partições
+- Criar snapshots
+- Instalar pacotes e serviços
